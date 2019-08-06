@@ -1,0 +1,50 @@
+
+
+
+== Level 2 ==
+
+=== Level 3 ===
+
+==== Level 4 ====
+
+===== Level 5 =====
+
+====== Level 6 ======
+
+''italic''
+
+'''bold'''
+
+'''''bold & italic'''''
+
+<nowiki>no ''markup''</nowiki>
+
+* Start each line
+* with an [[Wikipedia:asterisk|asterisk]] (*).
+** More asterisks give deeper
+*** and deeper levels.
+* Line breaks <br />don't break levels.
+*** But jumping levels creates empty space.
+
+# Start each line
+# with a [[Wikipedia:Number_sign|number sign]] (#).
+## More number signs give deeper
+### and deeper
+### levels.
+# Line breaks <br />don't break levels.
+### But jumping levels creates empty space.
+# Blank lines
+
+
+;item 1
+: definition 1
+;item 2
+: definition 2-1
+: definition 2-2
+
+
+
+    if True:
+        print True
+    else:
+        print False<nowiki>

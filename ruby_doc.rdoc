@@ -1,0 +1,26 @@
+= Level One Heading
+
+
+== Level Two Heading
+
+italic:	<em>text</em>
+
+bold:<b>text</b>
+
+typewriter:	<tt>text</tt>
+
+== Lists
+
+
+* bullet1
+* bullet2
+
+44. one
+44. two
+
+
+[cat]   small domestic animal
+[dog]   small domestic animal
+[+cat+] command to copy standard input
+
+

@@ -1,0 +1,43 @@
+Emphasized text:
+
+//emphasized// (e.g., italics)
+ 
+**strongly emphasized** (e.g., bold)
+Lists:
+
+* Bullet list
+* Second item
+** Sub item
+
+# Numbered list
+# Second item
+## Sub item
+Links:
+
+Link to [[wikipage]]
+[[link_address|link text]]
+Headings: (closing equals signs are optional)
+
+= Extra-large heading
+== Large heading
+=== Medium heading
+==== Small heading
+Linebreaks:
+
+Force\\linebreak
+Horizontal Line:
+
+----
+Images:
+
+{{Image.jpg|title}}
+Tables:
+
+|=  |= table |= header |
+| a | table  | row     |
+| b | table  | row     |
+No markup:
+
+{{{
+This text will //not// be **formatted**.
+}}}

@@ -1,0 +1,31 @@
+=over
+ 
+=item *
+ 
+First item
+ 
+=item *
+ 
+Second item
+ 
+=back
+ 
+=over
+ 
+=item Foo()
+ 
+Description of Foo function
+ 
+=item Bar()
+ 
+Description of Bar function
+ 
+=back
+
+
+C<$a E<lt>=E<gt> $b>
+
+C<open(X, "E<gt>E<gt>thing.dat") || die $!>
+
+C<$foo-E<gt>bar();>
+

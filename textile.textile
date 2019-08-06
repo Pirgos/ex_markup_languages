@@ -1,0 +1,45 @@
+h2. This is a title
+
+h3. This is a subhead
+
+This is a bit of paragraph.
+
+bq. This is a blockquote.
+
+
+h3.     Lists
+
+#       Numeric list.
+#       Numeric list.
+#       Numeric list.
+
+
+*       Bulleted list.
+*       Bulleted list.
+*       Bulleted list.
+
+
+h3. Modifiers
+
+_emphasis_
+__italicized__
+*strong*
+**bold**
+??citation??
+-deleted text-
++inserted text+
+^superscript^
+~subscript~
+@code@
+%(classname)span%
+
+==notextile== (leave text alone)
+
+h3. Links
+
+<a href="http://www.textism.com" title="This is a title">This is a link</a>
+
+h3. Table
+
+|a|simple|table|row|
+|And|Another|table|row|
