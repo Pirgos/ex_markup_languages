@@ -8,5 +8,11 @@ An introduction to http://asciidoc.org[AsciiDoc].
 * item 1
 * item 2
 
+== Second Section
+
+. one
+. two
+. three
+
 [source,ruby]
 puts "Hello, World!"
