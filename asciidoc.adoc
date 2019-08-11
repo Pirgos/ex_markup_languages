@@ -3,12 +3,12 @@ Doc Writer <doc@example.com>
 
 An introduction to http://asciidoc.org[AsciiDoc].
 
-== First Section
+== First section
 
 * item 1
 * item 2
 
-== Second Section
+== Second section 
 
 . one
 . two
